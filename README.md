@@ -19,6 +19,8 @@ This repository contains our code for the course project of the [DS203 - Program
 * Generate EDA results, and create feature data for forecasting by running all cells in `EDA.ipynb`
 * Run all forecasting analyses by running all cells in `forecasting.ipynb`
 
+#### **Report**
+The project report can be found [here](./report.pdf)
 
 ### Repository Structure
 
